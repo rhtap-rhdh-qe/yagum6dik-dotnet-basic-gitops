@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yagum6dik-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yagum6dik-dotnet-basic
